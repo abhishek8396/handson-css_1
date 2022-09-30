@@ -1,0 +1,46 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;
+}
+ol{
+    color: brown;
+    font-weight: bolder;
+    font-size: medium;
+}
+id{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+class{
+    background-color: yellow;
+    font-weight: bold;
+}
+.line2{
+    letter-spacing: 7px;
+    font-weight: bold;
+    color: brown;
+}
+.line3{
+    color: brown;
+    font-weight: bold;
+    letter-spacing: 7px;
+}
+.line4{
+    background-color: yellow;
+}
+p{
+    color: brown;
+    font-weight: bold;
+}
+a{
+    color: brown;
+    background-color: yellow;
+}
+.line5{
+    text-decoration: underline;
+}
